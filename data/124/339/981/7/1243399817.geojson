@@ -33,8 +33,7 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
-        85633241,
-        85685045
+        85633241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +45,13 @@
         {
             "continent_id":102191581,
             "country_id":85633241,
-            "locality_id":1243399817,
-            "region_id":85685045
+            "locality_id":1243399817
         }
     ],
     "wof:id":1243399817,
     "wof:lastmodified":1637700869,
     "wof:name":"Summerton",
-    "wof:parent_id":85685045,
+    "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ie",
     "wof:superseded_by":[],
